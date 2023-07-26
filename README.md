@@ -11,8 +11,7 @@ Para o desenvolvimento do projeto, desenvolvi três aplicações, sendo uma do t
 
 A seguir, é possível visualizar algumas telas das aplicações:
 
-![10](https://github.com/DanielBonfimBarros/PetshopApp/assets/139025517/0443398a-0c44-4594-af0b-fa7dfd3ad640)
-![11](https://github.com/DanielBonfimBarros/PetshopApp/assets/139025517/812a46e1-7cb9-4b24-bbe6-dad5583484a1)
+![10](https://github.com/DanielBonfimBarros/PetshopApp/assets/139025517/0443398a-0c44-4594-af0b-fa7dfd3ad640)![11](https://github.com/DanielBonfimBarros/PetshopApp/assets/139025517/812a46e1-7cb9-4b24-bbe6-dad5583484a1)
 
 Ambas as aplicações foram desenvolvidas utilizando as boas práticas de desenvolvimento em OutSystems, contendo requisitos extras como um sistema de "carrinho" funcional e controle de estoque.
 
